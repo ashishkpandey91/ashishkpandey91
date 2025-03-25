@@ -7,7 +7,7 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Software Developer** specializing in **React, Next.js, and Appwrite**. I enjoy building modern, scalable web applications and am currently expanding my skill set into **React Native** for mobile development.
+I am a passionate **Frontend Developer** specializing in **React, Next.js, and Appwrite**. I enjoy building modern, scalable web applications and am currently expanding my skill set into **React Native** for mobile development.
 
 - 💼 **Currently:** Intern at [Zelthy](https://zelthy.com)  
 - 🌱 **Learning:** React Native, Backend Development  
@@ -26,15 +26,26 @@ I am a passionate **Software Developer** specializing in **React, Next.js, and A
 #### **Tools & DevOps**
 - Git & GitHub  
 - Docker  
-- CI/CD (GitHub Actions)  
+ 
 
 ---
 
 ### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishkpandey91&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashishkpandey91&show_icons=true&theme=radical" />
 </p>
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashishkpandey91&theme=radical" />
+</p>
+
+### 💻 Top Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishkpandey91&layout=compact&theme=radical" />
+</p>
+
+
 
 ---
 
