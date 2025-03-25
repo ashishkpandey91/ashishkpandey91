@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Ashish Kr. Pandey 👋</h1>
 <p align="center">
-  <em>Full-Stack Developer | JavaScript | React | Next.js | Appwrite | Python</em>
+  <em>Frontend Developer | JavaScript | React | Next.js | Appwrite | Python</em>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a passionate **Full-Stack Developer** specializing in **React, Next.js, and Appwrite**. I enjoy building modern, scalable web applications and am currently expanding my skill set into **React Native** for mobile development.
+I am a passionate **Software Developer** specializing in **React, Next.js, and Appwrite**. I enjoy building modern, scalable web applications and am currently expanding my skill set into **React Native** for mobile development.
 
 - 💼 **Currently:** Intern at [Zelthy](https://zelthy.com)  
 - 🌱 **Learning:** React Native, Backend Development  
