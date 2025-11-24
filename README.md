@@ -3,19 +3,6 @@
   <em>App & Web Developer | JavaScript | React | React Native | Python | Django</em>
 </p>
 
----
-
-### 👨‍💻 About Me  
-
-Hi, I'm Ashish SDE Intern - Frontend at Zelthy, an AI-powered platform for custom healthcare solutions.  
-I contribute to the development of production-grade web applications with a strong focus on performance, scalability, and user experience. Currently in the final semester of my Master of Computer Applications (MCA), I’m also actively working on personal projects to strengthen my skills in both web and mobile development.
-
-Beyond frontend and full-stack development, I’m currently exploring AI agents and how they can enhance user interactions and productivity through intelligent automation.
-
-I take pride in writing clean, maintainable code and am passionate about solving real-world problems through thoughtful, user-centric design.  
-
----
-
 #### 🔥 Tech Stack  
 
 #### 🚀 **Frontend Development**  
